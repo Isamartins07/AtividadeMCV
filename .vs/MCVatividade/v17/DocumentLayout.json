@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\view\\addvendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\view\\addvendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\view\\removervendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\view\\removervendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\view\\listavendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\view\\listavendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\view\\encerrarprogramavendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\view\\encerrarprogramavendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\view\\atualizarvendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\view\\atualizarvendaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\model\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\model\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\controller\\dbvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\controller\\dbvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|c:\\users\\isabelle.smartins3.senacedu\\source\\repos\\mcvatividade\\mcvatividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0269C2-C588-4039-8988-D9CC0F7390AB}|MCVatividade\\MCVatividade.csproj|solutionrelative:mcvatividade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoverVendaView.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\RemoverVendaView.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\View\\RemoverVendaView.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\RemoverVendaView.cs",
+              "RelativeToolTip": "MCVatividade\\View\\RemoverVendaView.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:19:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaVendaView.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\ListaVendaView.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\View\\ListaVendaView.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\ListaVendaView.cs",
+              "RelativeToolTip": "MCVatividade\\View\\ListaVendaView.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:18:16.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncerrarProgramaVendaView.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\EncerrarProgramaVendaView.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\View\\EncerrarProgramaVendaView.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\EncerrarProgramaVendaView.cs",
+              "RelativeToolTip": "MCVatividade\\View\\EncerrarProgramaVendaView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:17:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtualizarVendaView.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\AtualizarVendaView.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\View\\AtualizarVendaView.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\AtualizarVendaView.cs",
+              "RelativeToolTip": "MCVatividade\\View\\AtualizarVendaView.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:16:38.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddVendaView.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\AddVendaView.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\View\\AddVendaView.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\View\\AddVendaView.cs",
+              "RelativeToolTip": "MCVatividade\\View\\AddVendaView.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:16:00.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\Model\\Vendas.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\Model\\Vendas.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\Model\\Vendas.cs",
+              "RelativeToolTip": "MCVatividade\\Model\\Vendas.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:15:06.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBVENDAS.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\Controller\\DBVENDAS.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\Controller\\DBVENDAS.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\Controller\\DBVENDAS.cs",
+              "RelativeToolTip": "MCVatividade\\Controller\\DBVENDAS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:14:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\Program.cs",
+              "RelativeDocumentMoniker": "MCVatividade\\Program.cs",
+              "ToolTip": "C:\\Users\\isabelle.smartins3.SENACEDU\\source\\repos\\MCVatividade\\MCVatividade\\Program.cs",
+              "RelativeToolTip": "MCVatividade\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:51:15.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

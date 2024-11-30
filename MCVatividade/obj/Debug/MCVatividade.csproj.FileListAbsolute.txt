@@ -1,0 +1,12 @@
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\bin\Debug\MCVatividade.exe.config
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\bin\Debug\MCVatividade.exe
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\bin\Debug\MCVatividade.pdb
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\bin\Debug\EntityFramework.dll
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\bin\Debug\EntityFramework.xml
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\obj\Debug\MCVatividade.csproj.AssemblyReference.cache
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\obj\Debug\MCVatividade.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\obj\Debug\MCVativi.193D2511.Up2Date
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\obj\Debug\MCVatividade.exe
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\MCVatividade\MCVatividade\obj\Debug\MCVatividade.pdb
